@@ -24,6 +24,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Spring Boot
 - Java
 - JUnit
+- Maven
 
 
 ## Clonar repositório
